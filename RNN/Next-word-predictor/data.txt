@@ -1,0 +1,15 @@
+I love machine learning.
+I love deep learning.
+Machine learning is a part of artificial intelligence.
+Deep learning uses neural networks.
+An LSTM learns patterns from sequences.
+A neural network learns from training data.
+I am learning PyTorch.
+PyTorch is a deep learning framework.
+Language models predict the next word.
+The model learns from words and sentences.
+I am building a next word prediction model.
+Deep learning is interesting.
+I love learning artificial intelligence.
+Neural networks can learn patterns.
+An LSTM can process sequential data. 
