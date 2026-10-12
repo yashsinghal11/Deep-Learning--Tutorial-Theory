@@ -377,3 +377,6 @@ This project can be distributed under the MIT License. If you choose MIT, add a 
 ⭐ **If you find this project interesting, consider giving the repository a star!**
 
 💬 *Learning deep learning one project at a time.* 🚀
+
+
+<img width="1022" height="577" alt="image" src="https://github.com/user-attachments/assets/9a577993-43e2-45ab-9aa9-e1afe03b123a" />
